@@ -1,5 +1,5 @@
 output "cluster_id" {
-  value = aws_eks_cluster.devopsshack.id
+  value = aws_eks_cluster.devopsshack1.id
 }
 
 output "node_group_id" {
